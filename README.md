@@ -16,6 +16,6 @@ El instructor es [Fernando Herrera](https://fernando-herrera.com/).
 1.2 Paso intermedio 2
 2. Segundo paso
 
-Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog].
-En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
+Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac](blog).
+En dicha [web](blog) recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
 [blog]: http://limni.net/blog/
