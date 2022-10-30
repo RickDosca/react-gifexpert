@@ -3,13 +3,13 @@
 
 1. Instalaciones:
 ```
-yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react 
-yarn add --dev @testing-library/react @types/jest jest-environment-jsdom
+npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react 
+npm install --save-dev @testing-library/react @types/jest jest-environment-jsdom
 ```
 
 2. Opcional: Si usamos Fetch API en el proyecto:
 ```
-yarn add --dev whatwg-fetch
+npm install --save-dev whatwg-fetch
 ```
 
 3. Actualizar los scripts del __package.json__
@@ -42,5 +42,5 @@ module.exports = {
 __jest.setup.js__
 ```
 // En caso de necesitar la implementación del FetchAPI
-import 'whatwg-fetch'; // <-- yarn add whatwg-fetch
+import 'whatwg-fetch'; // <-- npm install --save-dev whatwg-fetch
 ```
